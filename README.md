@@ -30,10 +30,10 @@ Actualmente, TaskMaster Pro se encuentra en **versión 1.0 estable**, con funcio
 ![Demo](https://via.placeholder.com/600x300.png?text=Demo+TaskMaster+Pro)
 
 ## Acceso al Proyecto
-Repositorio GitHub:[ [https://github.com/usuario/taskmaster-pro](https://github.com/usuario/taskmaster-pro)](https://github.com/dcurrasv25/DI/tree/main#descripci%C3%B3n-del-proyecto)  
+Repositorio GitHub:https://github.com/dcurrasv25/DI 
 Instalación:  
 ```bash
-git clone https://github.com/usuario/taskmaster-pro.git
+git clone https://github.com/dcurrasv25/DI
 cd taskmaster-pro
 npm install
 npm start
